@@ -1,0 +1,7 @@
+__pycache__/
+*.pdf
+*.txt
+scratch/
+temp_*.pdf
+node_modules/
+.env
